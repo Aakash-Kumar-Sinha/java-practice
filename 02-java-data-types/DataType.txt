@@ -1,0 +1,13 @@
+Data Type          |             Size	                         |     Default Value
+------------------------------------------------------------------------------------------
+byte	           |         1 byte (8-bit)	                     |           0
+short	           |         2 bytes (16-bit)	                 |           0
+int	               |         4 bytes (32-bit)	                 |           0
+long	           |         8 bytes (64-bit)	                 |           0L
+float	           |         4 bytes (32-bit)	                 |           0.0f
+double	           |         8 bytes (64-bit)	                 |           0.0d
+char	           |         2 bytes (16-bit, Unicode)	         |           '\u0000'
+boolean	           |         JVM-dependent (typically 1 byte)	 |           false
+String	           |         Reference (4 or 8 bytes)	         |           null
+Array	           |         Reference (4 or 8 bytes)	         |           null
+Object	           |         Reference (4 or 8 bytes)	         |           null
