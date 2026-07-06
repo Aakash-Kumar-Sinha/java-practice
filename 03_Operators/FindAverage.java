@@ -23,3 +23,12 @@ public class FindAverage {
         System.out.println("Average is: " + avg);
     }
 }
+
+// Output:
+// Enter marks of five subjects:
+// 80
+// 75
+// 90
+// 85
+// 70
+// Average is: 80.0
