@@ -13,7 +13,7 @@ public class Temperature {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter temperature in Celsius: ");
-        double cel  = sc.nextInt();
+        double cel  = sc.nextDouble();
         double fah = (cel * 9/5) + 32;
 
         System.out.println("Fahrenheit: " + fah);
