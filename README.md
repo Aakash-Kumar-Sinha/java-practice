@@ -1,4 +1,4 @@
-# 🚀 Java Practice Repository
+<!-- # 🚀 Java Practice Repository
 
 Welcome to my **Java practice repository**!
 
@@ -52,4 +52,4 @@ I completed my **Master of Computer Applications (MCA)** in **2024**. Currently,
 
 ## ⭐ Thanks for Visiting!
 
-Thank you for visiting my repository. Feel free to explore my Java practice programs and follow my learning journey.
+Thank you for visiting my repository. Feel free to explore my Java practice programs and follow my learning journey. -->
